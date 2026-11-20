@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "blockly": "^12.4.1",
-    "next": "^15.5.6",
+    "next": "15.5.29",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "y-indexeddb": "^9.0.12",
@@ -25,7 +25,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.5.4",
+    "eslint-config-next": "15.5.29",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
